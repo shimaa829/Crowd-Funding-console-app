@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91e177fa-bfea-449f-a73a-5c70fae5aa78" name="Default Changelist" comment="" />
+    <list default="true" id="91e177fa-bfea-449f-a73a-5c70fae5aa78" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/register.py" beforeDir="false" afterPath="$PROJECT_DIR$/register.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users_data.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +22,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/edit_project.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1YqO066ATaE9A6yzlQxkLhsQBye" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,6 +37,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Djang-labs/lab1/iti" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -42,9 +52,6 @@
       <module name="Lab2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -160,10 +167,14 @@
       <screen x="0" y="28" width="1366" height="706" />
     </state>
     <state width="683" height="353" key="XDebugger.FullValuePopup/0.28.1366.706@0.28.1366.706" timestamp="1583679336715" />
-    <state x="349" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1584033985253">
+    <state x="349" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1585723271646">
       <screen x="0" y="28" width="1366" height="706" />
     </state>
-    <state x="349" y="208" key="com.intellij.ide.util.TipDialog/0.28.1366.706@0.28.1366.706" timestamp="1584033985253" />
+    <state x="349" y="208" key="com.intellij.ide.util.TipDialog/0.28.1366.706@0.28.1366.706" timestamp="1585723271646" />
+    <state x="445" y="32" width="466" height="702" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585725229901">
+      <screen x="0" y="28" width="1366" height="706" />
+    </state>
+    <state x="445" y="32" width="466" height="702" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.28.1366.706@0.28.1366.706" timestamp="1585725229901" />
     <state x="241" y="69" width="874" height="631" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583726331919">
       <screen x="0" y="28" width="1366" height="706" />
     </state>
